@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15320299468",
+    "project_id": "cheflunch-e4aa6",
+    "storage_bucket": "cheflunch-e4aa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15320299468:android:5451ad0943eb9b23b24f69",
+        "android_client_info": {
+          "package_name": "com.example.chef_lanch_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAD7EIFqvtWrAhGM_IvAkaVvzcBOOA700"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15320299468:android:76034d521c314602b24f69",
+        "android_client_info": {
+          "package_name": "com.example.chef_lunch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAD7EIFqvtWrAhGM_IvAkaVvzcBOOA700"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
