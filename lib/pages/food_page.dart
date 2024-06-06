@@ -98,7 +98,9 @@ class _FoodPageState extends State<FoodPage> {
                     widget.foodInfo.token,
                     textAlign: TextAlign.center,
                     style: const TextStyle(
-                        fontSize: 20, fontWeight: FontWeight.w500),
+                      fontSize: 20,
+                      fontWeight: FontWeight.w500,
+                    ),
                   ),
                   const Spacer(flex: 2),
                 ],
